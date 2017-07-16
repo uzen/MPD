@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MPD</string>
+  <string name="app_name_full">Music Player Daemon</string>
+  <string name="app_description">It\'s an audio player that has a server-client architecture.</string>
+  <string name="app_description_full">Music Player Daemon (MPD) is an audio player that has a server-client architecture. It plays audio files, organizes playlists and maintains a music database all while using very few resources. In order to interface with it, a separate client is needed.</string>
+  <string name="mpd_quit">Music Player Daemon has quit</string>
+  <string name="mpd_run">Music Player Daemon is running</string>
+  <string name="err_loaded">Failed to load the native MPD libary.\nReport this problem to us, and include the following information:\n</string>
+  <string name="notification_text_mpd_run">Touch for MPD options</string>
+  <string name="permissions">Permissions</string>
+  <string name="permissionstoragedescription">mpd needs some permissions to get going. It works in most cases without them, but not all examples will function correctly.</string>
+  <string name="toast_write_storage_permission_required">Write storage permission is required for this app</string>
+  <string name="ask_for_permissions">Ask for Permissions</string>
+  <string name="next">Next</string>
+  <string name="previous">Previous</string>
+  <string name="visit_our_site_on_github">Visit our site on Github</string>
+  <string name="visit_our_site_on_musicpd">Home Page</string>
+  <string name="done">Done</string>
+  <string name="sdcardstate">External Storage:\u0020</string>
+  <string name="sd_available">Mounted</string>
+  <string name="sd_not_available">Not Available</string>
+  <string name="settings_general">General</string>
+  <string name="run_on_boot">Run program on startup</string>
+  <string name="configuration_management">Configuration Management</string>
+  <string name="create_config_file">Generate default config file</string>
+  <string name="settings">Settings</string>
+  <string name="select_directory_music">Music Directory</string>
+  <string name="select_directory_playlist">Playlist Directory</string>
+  <string name="clear_db">Clear database</string>
+  <string name="hostname">Hostname or IP:</string>
+  <string name="port">Port:</string>
+</resources>
